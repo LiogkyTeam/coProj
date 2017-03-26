@@ -20,6 +20,5 @@ public class HelloWorld {
         System.out.println("Hello, world!");
         int a = Integer.parseInt("123");
         HelloWorld hell = new HelloWorld(3);
-        System.out.println(hell);
     }
 }
