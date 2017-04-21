@@ -1,0 +1,7 @@
+<application>
+  <component name="GwtSdkManager">
+    <gwt-sdk-list>
+      <gwt-sdk url="file://$USER_HOME$/IdeaProjects/gwt-2.8.0" />
+    </gwt-sdk-list>
+  </component>
+</application>
