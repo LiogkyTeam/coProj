@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/ghik/custom-widget.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mstahv/officialgwt-with-vaadin7-7-and-new-addon-archetype.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Alexey\IdeaProjects" />
