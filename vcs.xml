@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/hezamu/vaadincanvas.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Mazku/collabsketch_vaadin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Alexey\IdeaProjects" />
